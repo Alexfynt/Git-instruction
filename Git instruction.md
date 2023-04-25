@@ -82,11 +82,11 @@ branch_name указывали набор символов (коммит), на 
  
  **git branch <new_branch_name>** - Cоздает новую ветку с именем 
   
-  **git branch -d (Deliete) <branch_to_delete>**  - Удаляет ветку с этим именем
+  **git branch -d (Deliete) <branch_to_delete>**  - Удаляет ветку с этим именем deleted (с англ. удалить).
 
   **git checkout <beranch_name>** - Перезод на ветку с этим именем
 
   **git log - graph** - Выводим список коммитов в виде красивого графа/дерева 
 
-  **git merge <branch_name>** - Cливает ветку с этим именем с текущей веткой.
+  **git merge <branch_name>** - Cливает ветку с этим именем с текущей веткой merge (с англ. слияние).
 
